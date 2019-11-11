@@ -1,0 +1,24 @@
+.panel-container {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.275) !important;
+  border-radius: 2px;
+}
+
+.header {
+  color: gray;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 1px solid lightgray;
+  padding: 10px 0px;
+}
+
+.views {
+  font-size: 14px;
+}
+
+.view {
+  cursor: pointer;
+}
+
+.active-view {
+  color: black;
+}

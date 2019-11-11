@@ -1,0 +1,32 @@
+.asset-item {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.275) !important;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.active-asset {
+  background: black;
+  color: white;
+}
+
+.aave-button {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.275) !important;
+  border-radius: 4px;
+  background: blue;
+  color: white;
+  width: 80%;
+  margin: 0 auto;
+  max-width: 200px;
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+}
+
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}

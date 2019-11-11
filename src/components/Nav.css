@@ -1,0 +1,29 @@
+.navbar {
+  height: 50px;
+  padding: 0px 20px !important;
+}
+
+.navbar-brand {
+  font-size: 16px;
+  height: 50px;
+  padding: 0 !important;
+  line-height: 50px;
+}
+
+.nav-icon {
+  width: auto;
+  height: 35px;
+}
+
+.nav-text {
+  color: gray;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+.sign-out-text {
+  font-size: 14px;
+  color: blue;
+  cursor: pointer;
+}
