@@ -1,7 +1,7 @@
 ## Aave Monitor
 Comprehensive dashboard for the Aave Protocol.
 
-Includes:
+**Includes**:
 - fixed vs variable rates comparison by asset
 - summary of protocol activity by asset
 - summary of overall protocol activity
@@ -11,4 +11,5 @@ Includes:
 
 #### To run
 `npm install`
+
 `npm start`
